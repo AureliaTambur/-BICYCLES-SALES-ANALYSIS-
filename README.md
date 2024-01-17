@@ -9,13 +9,16 @@
 ### Project Overview
 ---
 In this project we will analyze sales data of bicycles for the past 3 years to examine the company's profitability in order to increase efficiency and profit. 
+![Screenshot 2024-01-17 184246](https://github.com/AureliaTambur/-BICYCLES-SALES-ANALYSIS-/assets/156318226/1d0ab474-f966-4dde-9076-bba207ba6671)
+
+![Screenshot 2024-01-17 184415](https://github.com/AureliaTambur/-BICYCLES-SALES-ANALYSIS-/assets/156318226/b0cb33c3-93f6-42d5-8410-c21743455f20)
 
 ### Data Sources
 Data for analysis was taken from database Adventure-Works 2016. It was founded in May 2011. The company has branches around the world and sells bicycles and related equipment. Its aim to encourage the sport of cycling throughout the world. 
 
 ### Tools
-SQL - Data cleaning and Data Analysis
-Excel- Data Visualization
+- SQL - Data cleaning and Data Analysis
+- Excel- Data Visualization
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks: 
